@@ -1,9 +1,145 @@
 {
+    "port": 3000,
+    "address": "https://peach-harrier-z6ewz8ma.ws-us03.gitpod.io",
+    "editor": "gitpod",
+    "configPath": {
+        "config": "bc.json",
+        "base": ".breathecode",
+        "exercises": "./exercises",
+        "output": ".breathecode/dist"
+    },
+    "outputPath": "./.learn/dist",
+    "publicPath": "/preview",
+    "grading": "isolated",
+    "ignoreRegex": null,
+    "webpack_template": null,
+    "disable_grading": false,
+    "onCompilerSuccess": "open-browser",
     "language": "vanillajs",
+    "compiler": "webpack",
+    "tester": "jest",
+    "actions": [
+        "build",
+        "test",
+        "reset"
+    ],
     "difficulty": "beginner",
     "duration": 8,
     "repository": "https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises",
     "description": "Learn how to make your application interactive, wait for the user to click, use the keyboard, use the mouse, resize the window and much more!",
     "title": "Javascript Events",
-    "slug": "javascript-events"
+    "slug": "javascript-events",
+    "session": 3444380586339948000,
+    "exercises": [
+        {
+            "slug": "00-introduction",
+            "title": "00-introduction",
+            "done": false,
+            "path": "exercises/00-introduction",
+            "translations": [
+                "es",
+                "us"
+            ],
+            "graded": false
+        },
+        {
+            "slug": "01-alert-on-click",
+            "title": "01-alert-on-click",
+            "done": false,
+            "path": "exercises/01-alert-on-click",
+            "translations": [
+                "es",
+                "us"
+            ],
+            "graded": false
+        },
+        {
+            "slug": "02-on-click-Hello-World",
+            "title": "02-on-click-Hello-World",
+            "done": false,
+            "path": "exercises/02-on-click-Hello-World",
+            "translations": [
+                "es",
+                "us"
+            ],
+            "graded": false
+        },
+        {
+            "slug": "03-sum-values",
+            "title": "03-sum-values",
+            "done": false,
+            "path": "exercises/03-sum-values",
+            "translations": [
+                "es",
+                "us"
+            ],
+            "graded": false
+        },
+        {
+            "slug": "04-hide-on-click",
+            "title": "04-hide-on-click",
+            "done": false,
+            "path": "exercises/04-hide-on-click",
+            "translations": [
+                "es",
+                "us"
+            ],
+            "graded": false
+        },
+        {
+            "slug": "05-the-load-event",
+            "title": "05-the-load-event",
+            "done": false,
+            "path": "exercises/05-the-load-event",
+            "translations": [
+                "es",
+                "us"
+            ],
+            "graded": false
+        },
+        {
+            "slug": "06-add-listener-with-js",
+            "title": "06-add-listener-with-js",
+            "done": false,
+            "path": "exercises/06-add-listener-with-js",
+            "translations": [
+                "es",
+                "us"
+            ],
+            "graded": false
+        },
+        {
+            "slug": "07-count-on-click",
+            "title": "07-count-on-click",
+            "done": false,
+            "path": "exercises/07-count-on-click",
+            "translations": [
+                "es",
+                "us"
+            ],
+            "graded": false
+        },
+        {
+            "slug": "07.1-change-turn-on-click",
+            "title": "07.1-change-turn-on-click",
+            "done": false,
+            "path": "exercises/07.1-change-turn-on-click",
+            "translations": [
+                "es",
+                "us"
+            ],
+            "graded": false
+        },
+        {
+            "slug": "08-event-target",
+            "title": "08-event-target",
+            "done": false,
+            "path": "exercises/08-event-target",
+            "translations": [
+                "es",
+                "us"
+            ],
+            "graded": false
+        }
+    ]
 }

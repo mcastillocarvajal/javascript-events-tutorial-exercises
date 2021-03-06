@@ -4,8 +4,3 @@ window.onload = function myLoadFunction() {
 };
 
 //the listener function here
-
-var btn = document.getElementById("theGreen");
-btn.addEventListener("click", () => {
-	alert("wujuuu");
-});
